@@ -1,0 +1,17 @@
+sudo npm install -g firebase-tools
+
+firebase login
+
+
+firebase init
+
+
+step 1 : getting the tmdb key
+step 2 : create react-app by using npm
+step 3 : setting up firebase and hosting
+step 4 : getting all the movies
+step 5 : rows
+step 6 : banner(changing)
+step 7 : nav bar
+step 8 : add trailers
+step 9 : deploying
